@@ -1,0 +1,15 @@
+{
+  "name": "adbpgwriter",
+  "parameter": {
+    "username": "",
+    "password": "",
+    "host": "",
+    "port": "",
+    "database": "",
+    "schema": "",
+    "table": "",
+    "column": [
+      "*"
+    ]
+  }
+}
